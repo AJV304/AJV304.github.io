@@ -4,4 +4,12 @@ title: "Welcome"
 
 # Hello!
 
-My name is Anna and this is an assignment for my MLARPIS class in 2025. 
+My name is Anna and this is an assignment for my MLARPIS class in 2025.
+
+# Hobbies
+
+My hobbies are:
+
+-   Crying over github
+-   Crying over quarto
+-   Being happy when stuff works
