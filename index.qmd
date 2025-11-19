@@ -6,6 +6,8 @@ title: "Welcome"
 
 My name is Anna and this is an assignment for my MLARPIS class in 2025.
 
+![snail](greetings-snail.gif)
+
 # Hobbies
 
 My hobbies are:
