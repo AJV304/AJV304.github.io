@@ -4,4 +4,4 @@ title: "Welcome"
 
 # Hello!
 
-This is my Quarto website.
+My name is Anna and this is an assignment for my MLARPIS class in 2025. 
